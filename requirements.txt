@@ -1,0 +1,9 @@
+ortools
+matplotlib
+stable-baselines3
+gymnasium 
+pygame 
+numpy
+tensorboard
+opencv-python
+jupyter-tensorboard
